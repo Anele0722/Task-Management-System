@@ -40,5 +40,6 @@ The To-Do List is a vital tool within the system, serving as a checklist for tas
 ## Challenges Faced and Solutions
 
 Deadline Validation
+
 Challenge: Ensuring correct deadline formats.
 Solution: Implemented a validation mechanism to check if entered dates follow the required format (YYYY-MM-DD).
