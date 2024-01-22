@@ -26,12 +26,19 @@ An interactive menu system provides users with various options, such as creating
 The To-Do List is a vital tool within the system, serving as a checklist for tasks required to achieve project goals. Each task includes details such as a brief name, a comprehensive description, assigned team member, task dependencies, and a deadline. These details aid in effective task management and project organization.
 
 ## Task Details:
-Task Name: Brief description of the task.
-Description: Additional information or instructions for task completion.
-Assigned Team Member: Designated person responsible for task completion.
-Dependencies: Notation of tasks that must be completed before others can begin.
-Deadline: Date by which the task should be completed.
-Challenges Faced and Solutions
+
+1. Task Name: Brief description of the task.
+
+2. Description: Additional information or instructions for task completion.
+
+3. Assigned Team Member: Designated person responsible for task completion.
+
+4. Dependencies: Notation of tasks that must be completed before others can begin.
+
+5. Deadline: Date by which the task should be completed.
+
+## Challenges Faced and Solutions
+
 Deadline Validation
 Challenge: Ensuring correct deadline formats.
 Solution: Implemented a validation mechanism to check if entered dates follow the required format (YYYY-MM-DD).
